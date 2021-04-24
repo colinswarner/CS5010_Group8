@@ -1,1 +1,15 @@
+INTRODUCTION | Our group decided to investigate patterns in submitted applications and ultimate decisions received by individuals seeking refugee status around the world. 
+
+The United Nations defines a refugee as, “someone who is unable or unwilling to return to their country of origin owing to a well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group, or political opinion.” 
+
+In 2019, there were 2,245,378 applications filed across the world by individuals seeking refugee status in another country. This an incredibly large number of vulnerable people in our world seeking assistance, and it is important that other countries and individuals with the available resources offer their support. 
+
+It is due to this responsibility that we believe countries and individuals have to support refugees around the world that we created a program that allows users to learn about the refugee landscape. A few practical use cases that we believe this program could help with are:
+
+(1)	Allow refugee case works to know which countries accept the highest percentage of refugees from each country so that they can advise families where to apply for refugee status. 
+(2)	Enable churches or nonprofits to understand which countries are seeing the most individuals applying for refugee status so that they can provide resources to the most vulnerable of our world. 
+(3)	Give churches or nonprofits insight into the demographics of the people arriving in their country as refugees so that they can design their services around serving the arriving population.
+(4)	Use time series to show policy makers trends in the number of refugees that each country accepts over time in order to identify when countries may be failing in their responsibility to care for the most vulnerable.
+
+Below, we will dive deeper into the data set that we received from the United Nations and demonstrate the ways in which users can use our program to solve their problems. 
 
