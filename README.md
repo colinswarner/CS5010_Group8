@@ -1,6 +1,6 @@
 # CS5010_Group8
 ## Semester Project Report
-## by Amanda Maruca (), Allison Hansen (), Colin Warner (ynq9ya)
+## by Amanda Maruca (qfu2fy), Allison Hansen (Aph7hy), Colin Warner (ynq9ya)
 
 
 ### INTRODUCTION
@@ -13,7 +13,7 @@ In 2019, there were 2,245,378 applications filed across the world by individuals
 
 It is due to this responsibility that we believe countries and individuals have to support refugees around the world that we created a program that allows users to learn about the refugee landscape. A few practical use cases that we believe this program could help with are:
 
-1.	Allow refugee case works to know which countries accept the highest percentage of refugees from each country so that they can advise families where to apply for refugee status. 
+1.	Allow refugee case workers to know which countries accept the highest percentage of refugees from each country so that they can advise families where to apply for refugee status. 
 1.	Enable churches or nonprofits to understand which countries are seeing the most individuals applying for refugee status so that they can provide resources to the most vulnerable of our world. 
 1.	Give churches or nonprofits insight into the demographics of the people arriving in their country as refugees so that they can design their services around serving the arriving population.
 1.	Use time series to show policy makers trends in the number of refugees that each country accepts over time in order to identify when countries may be failing in their responsibility to care for the most vulnerable.
@@ -48,22 +48,24 @@ Our project was based on an experimental design from the beginning. We studied t
 Our results are largely interactive. While the program looks to highlight certain trends and statistical findings, the goal is to involve the user and allow 
 the user to pose questions to the program. Thus, while our findings include the reporting of various numbers, statistics, aggregates, and graphs drom the data we compiled regarding world refugees, the findings are also open ended to many possibilities of what the program will enable the user to do to help refugees around the world by understanding patterns and demographics.
 
-Below are a few examples of how each of the four users from our introduction may benefit from diving into both countries of asylum and countries of origin:
+Below are a few examples of how each of the three user types from our introduction may benefit from diving into both countries of asylum and countries of origin:
 
-#### Country of Asylum Use Case - Germany 
+#### Country of Asylum Case Study - Germany 
 
-1.	Refugee Case Workers: 
-1.	Churches or Nonprofits:  
-1.	Policy Makers:
+The timeseries plot shows that the number of refugees applying to move to Germany rose from under 200k in 2014 to over 700k in 2016. 
 
+Such a jump in applications should cause *policy makers* to look into what events may have taken place to cause such a spike, and confirm that they are doing what they can to help those that rightfully fall into the refugee category. Using our world maps, we can see that Syria is responsible for a vast majority of the applications in Germany and can confirm that Germany is accepting over 80% of refugees from Syria. 
 
-#### Country of Origin Use Case - Venezuela 
+A refugee *case worker* can feel good about recommending Germany as a place of asylum to a family in need. 
 
-1.	Refugee Case Workers: 
-1.	Churches or Nonprofits:  
-1.	Policy Makers:
+*Churches and nonprofits* in Germany may look more into the conflict specifically in Syria and research the needs of these individuals for when they arrive in their communities and neighborhoods.  
 
+#### Country of Origin Case Study - Venezuela 
+
+It is alarming to see the number of applicants seeking asylum from the country of Venezuela rise from nearly zero applicants from 2006-2014 to over 400K by 2019. As it turns out, an economic crisis becoming prevalent between 2010-2013 in Venezuela has had massive political and social implications on the country, causing many to flee.
+
+A *case worker* seeking to advise a family from Venezuela decide where to apply for asylum may be tempted to recommend the United States based on our map displaying the total accepted refugees from Venzuela around the world. However, we can also see via our second map that Canada actually accepts about 30% more of their applicants than the United States does. While Canada falls short in total applicants accepted, a family from Venezuela may be more likely to receive refugee status by applying to Canada when compared to the United States.
 
 ### CONCLUSIONS
 
-
+Simply viewing high level information about the refugee landscape around the world can have so many practical applications. Most importantly, though, it helps us to think more deeply about the struggles of those arriving in our own country and perhaps causes us to ask additional questions that may lead to more insight in the future. 
